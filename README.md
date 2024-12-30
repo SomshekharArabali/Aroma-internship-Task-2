@@ -1,18 +1,6 @@
-# Vanilla Calendar
+# Aroma Calendar
 
-Hey there! In this video, we’ll create a fully responsive calendar app using just HTML, CSS, and JavaScript. Follow along to learn how to build an interactive calendar with features like event creation, real-time updates, and more. No frameworks or libraries—everything will be built from scratch!
-
-[![Vanilla Calendar Thumbnail](https://github.com/mateuszziomekit/vanilla-calendar/blob/main/thumbnail.jpg)](https://www.youtube.com/watch?v=PXOsddcWL4g)
-
-- [🍿 YouTube Video](https://www.youtube.com/watch?v=PXOsddcWL4g)
-- [🚀 Live Website](https://vanilla-calendar.mateuszziomekit.com/)
-- [💻 Source Code](https://github.com/mateuszziomekit/vanilla-calendar)
-
-Useful links:
-
-- [📝 Visual Studio Code](https://code.visualstudio.com/)
-- [🎨 Lucide Icons](https://lucide.dev/icons)
-- [🌍 Netlify Drop](https://app.netlify.com/drop)
+Hey there! I've created a fully responsive event schedule website using just HTML, CSS, and JavaScript.
 
 Features:
 
